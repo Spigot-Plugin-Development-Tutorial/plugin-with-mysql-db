@@ -1,0 +1,4 @@
+name: StatTracker
+version: '${project.version}'
+main: me.kodysimpson.stattracker.StatTracker
+api-version: 1.18
